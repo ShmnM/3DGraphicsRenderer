@@ -31,9 +31,9 @@ Escape to quit
 ### Requirements
 - C++ compiler preferably MinGW
 - SDL3 library
-    Download SDL3 from https://github.com/libsdl-org/SDL/releases
-    Place the SDL3 library files in src/lib
-    Place SDL3.dll in the root directory
+    - Download SDL3 from https://github.com/libsdl-org/SDL/releases
+    - Place the SDL3 library files in src/lib
+    - Place SDL3.dll in the root directory
 
 ### Windows (MinGW)
 1. Clone the repository
